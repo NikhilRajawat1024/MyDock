@@ -1,16 +1,8 @@
-# mydock
+MyDock
+MyDock is a customizable and animated dock-like interface inspired by macOS, built using Flutter. The dock supports draggable and reorderable icons with smooth animations.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Reorder icons by dragging and dropping.
+Smooth scaling animations on hover.
+Fully customizable icon appearance.
+Deployable as a Flutter web app.
